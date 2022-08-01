@@ -1,4 +1,10 @@
-### Hi there 👋
+[![ReadMe Twitter_Post Jonathan_Leitschuh DevStory](https://user-images.githubusercontent.com/1323708/182200035-c5885761-4760-4dc2-8644-508683eea53b.jpg)](https://github.com/readme/stories/jonathan-leitschuh)
+
+Hi There 👋!
+
+My name is Jonathan Leitschuh and I'm an Open Source Software Security Researcher. I'm also a [GitHub Star](https://stars.github.com/profiles/jlleitschuh/), GitHub Security Ambasidor, & the first ever [Dan Kaminsky Fellow](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh). I'm also a speaker at confrences like ShmooCon, BSidses CT, BSides LV, Black Hat, & DEFCON. I'm fortunate to have been featured by [GitHub's README project](https://github.com/readme/stories/jonathan-leitschuh)!
+
+If you'd like to get in touch, the best way is to DM Me on Twitter [@JLLeitschuh](https://twitter.com/jlleitschuh).
 
 <!--
 **JLLeitschuh/JLLeitschuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
