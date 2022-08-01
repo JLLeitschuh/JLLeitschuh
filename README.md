@@ -2,7 +2,7 @@
 
 Hi There!
 
-My name is Jonathan Leitschuh and I'm an Open Source Software Security Researcher. I'm also a [GitHub Star](https://stars.github.com/profiles/jlleitschuh/), GitHub Security Ambasidor, & the first ever [Dan Kaminsky Fellow](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh). I'm also a speaker at confrences like ShmooCon, BSidses CT, BSides LV, Black Hat, & DEFCON. I'm fortunate to have been featured by [GitHub's README project](https://github.com/readme/stories/jonathan-leitschuh)!
+My name is Jonathan Leitschuh and I'm an Open Source Software Security Researcher. I'm also a [GitHub Star](https://stars.github.com/profiles/jlleitschuh/), GitHub Security Ambassador, & the first ever [Dan Kaminsky Fellow](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh) @ [HUMAN Security](https://www.humansecurity.com/learn/blog/our-first-dan-kaminsky-fellow). I'm also a speaker at confrences like ShmooCon, BSidses CT, BSides LV, Black Hat, & DEFCON. I'm fortunate to have been featured by [GitHub's README project](https://github.com/readme/stories/jonathan-leitschuh)!
 
 If you'd like to get in touch, the best way is to DM Me on Twitter [@JLLeitschuh](https://twitter.com/jlleitschuh).
 
