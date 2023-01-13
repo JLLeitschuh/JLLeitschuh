@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Public Speaking
 
-#### Scaling The Security Researcher To Eliminate OSS
+#### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
 
 ##### Abstract
 
