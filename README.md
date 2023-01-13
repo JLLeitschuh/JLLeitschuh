@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Public Speaking
+## Public Vulnerability Research
 
 ### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
 
@@ -37,10 +37,29 @@ This work is sponsored by the new Dan Kaminsky Fellowship; a fellowship created 
 
 #### Recordings
 
-- BSides LV - August 2022 - BG - [Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All](https://youtu.be/VMGeZd66qnE) 
+- BSides LV - August 2022 - [BG - Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All](https://youtu.be/VMGeZd66qnE) 
 - Black Hat - August 2022 - [Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All ](https://youtu.be/zTtbVxGEq8A)
-- DEF CON - August 2022 - DEF CON 30 - [Jonathan Leitschuh - Scaling the Security Researcher to Eliminate OSS Vulnerabilities](https://youtu.be/UgGhEfdUSvQ)
+- DEF CON - August 2022 - [DEF CON 30 - Jonathan Leitschuh - Scaling the Security Researcher to Eliminate OSS Vulnerabilities](https://youtu.be/UgGhEfdUSvQ)
 - SEC-T Stockholm - September 2022  - [SEC-T 0x0E: Jonathan Leitschuh - Scaling the Security Researcher to Eliminate OSS Vulnerabilities](https://youtu.be/WkdzWiNKzt8) 
 - ⭐ No Hat - Bergamo Italy - October 2022 - [No Hat 2022 - Jonathan Leitschuh - Scaling the Security Researcher to Eliminate OSS Vulnerabilities](https://youtu.be/W_7ZmKMFvXo) ⭐
 - Code Blue, Tokyo Japan - October 2022
 - GitHub Universe - November 2022 - [Scaling the security researcher to eliminate OSS vulnerabilities once and for all  - Universe 2022](https://youtu.be/zj-25JfGkYY)
+
+### Zoom 0-Day: How not to handle a Security Vulnerability Report
+
+#### Abstract
+
+Come hear the hilarious story of Zoom’s biggest security scandal, a bombshell 0-Day vulnerability, from the one who dropped it.
+
+On July 8th, 2019, a 0-Day vulnerability was dropped on Zoom that disclosed how anyone could join a victim’s Mac to a video call simply by visiting a malicious website. As if that wasn’t enough, Zoom left behind a hidden daemon that would re-install the Zoom client after it had been uninstalled. The icing on the cake? A full blown RCE vulnerability.
+
+From Zoom’s original claims that it was “not a vulnerability”, what happened behind the scenes, to their eventual fix, join to hear what we as security professionals can learn from this debacle. The press might have covered the disclosure, but the post-disclosure story is even more astonishing than anyone would ever expect.
+
+#### Animations
+
+ - ⭐ ZeroToOne: [~4 Million Computers Compromised: Zoom's Biggest Security Scandal Explained](https://www.youtube.com/watch?v=K7hIrw1BUck) ⭐
+
+#### Recordings
+
+ - BSides CT - November 2019 - [Zoom 0-Day: How not to handle a vuln report - Jonathan Leitschuh - BSides CT 2019](https://www.youtube.com/watch?v=ypU5IPJKlXg)
+ - ShmooCon - February 2020 - [Zoom 0-Day: How Not to Handle a Vulnerability Report - Jonathan Leitschuh (Shmoocon 2020)](https://youtu.be/FismZ6ZDKXU)
