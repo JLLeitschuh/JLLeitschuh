@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Public Speaking
+## Public Speaking
 
-#### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
+### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
 
-##### Abstract
+#### Abstract
 
 Imagine a world where a security researcher becomes aware of a security vulnerability, impacting thousands of Open Source Software (OSS) projects, and is enabled to both identify and fix them all at once. Now imagine a world where a vulnerability is introduced into your production code and a few moments later you receive an automated pull request to fix it. Hundreds of thousands of human hours are invested every year in finding common security vulnerabilities with relatively simple fixes. These vulnerabilities aren't sexy, cool, or new, we've known about them for years, but they're everywhere!
 
@@ -35,7 +35,7 @@ When facing a problem of this scale, what is the most efficient way to leverage 
 
 This work is sponsored by the new Dan Kaminsky Fellowship; a fellowship created to celebrate Dan's memory and legacy by funding open-source work that makes the world a better (and more secure) place.
 
-##### Recordings
+#### Recordings
 
 - BSides LV - August 2022 - BG - [Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All](https://youtu.be/VMGeZd66qnE) 
 - Black Hat - August 2022 - [Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All ](https://youtu.be/zTtbVxGEq8A)
