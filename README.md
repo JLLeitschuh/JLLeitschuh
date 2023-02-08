@@ -63,3 +63,7 @@ From Zoom’s original claims that it was “not a vulnerability”, what happen
 
  - BSides CT - November 2019 - [Zoom 0-Day: How not to handle a vuln report - Jonathan Leitschuh - BSides CT 2019](https://www.youtube.com/watch?v=ypU5IPJKlXg)
  - ShmooCon - February 2020 - [Zoom 0-Day: How Not to Handle a Vulnerability Report - Jonathan Leitschuh (Shmoocon 2020)](https://youtu.be/FismZ6ZDKXU)
+ 
+## Other Stuff
+ 
+ - The Developers' Bakery - [#35 - ktlint-gradle with Jonathan Leitschuh and Yahor Berdnikau](https://thebakery.dev/35/)
