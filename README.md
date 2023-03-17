@@ -6,19 +6,17 @@ My name is Jonathan Leitschuh and I'm a Senior Software Security Researcher for 
 
 If you'd like to get in touch, the best way is to DM Me on Twitter [@JLLeitschuh](https://twitter.com/jlleitschuh) or direct message me in the [Open Source Security Foundation](https://openssf.org/getinvolved/) Slack Channel.
 
+---
+<p align="center">
+  <img src="https://github.com/JLLeitschuh/JLLeitschuh/raw/main/GitHub_README_Animation.gif" alt="Hi, I'm Jonathan Leitschuh">
+</p>
+
+---
+
 <!--
-**JLLeitschuh/JLLeitschuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+How to make your own version of this GIF?
+It was made with: https://codesandbox.io/s/github-profile-forked-xo3b7m
+Then i recorded my screen with this browser app: https://gifcap.dev/
 -->
 
 ## Public Vulnerability Research
