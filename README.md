@@ -45,6 +45,10 @@ This work is sponsored by the new Dan Kaminsky Fellowship; a fellowship created 
 - Code Blue, Tokyo Japan - October 2022
 - GitHub Universe - November 2022 - [Scaling the security researcher to eliminate OSS vulnerabilities once and for all  - Universe 2022](https://youtu.be/zj-25JfGkYY)
 
+#### News Coverage
+ - [Spotlight on First Dan Kaminsky Fellow: Jonathan Leitschuh](https://www.darkreading.com/cyber-risk/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh)
+ - [Patching common vulnerabilities at scale: project promises bulk pull requests](https://portswigger.net/daily-swig/patching-common-vulnerabilities-at-scale-project-promises-bulk-pull-requests)
+
 ### Zoom 0-Day: How not to handle a Security Vulnerability Report
 
 #### Abstract
@@ -63,7 +67,19 @@ From Zoom’s original claims that it was “not a vulnerability”, what happen
 
  - BSides CT - November 2019 - [Zoom 0-Day: How not to handle a vuln report - Jonathan Leitschuh - BSides CT 2019](https://www.youtube.com/watch?v=ypU5IPJKlXg)
  - ShmooCon - February 2020 - [Zoom 0-Day: How Not to Handle a Vulnerability Report - Jonathan Leitschuh (Shmoocon 2020)](https://youtu.be/FismZ6ZDKXU)
- 
+ - Mac Admins - July 25, 2019 - [Episode 130: Zoom’s Bad Day with Jonathan Leitschuh](https://podcast.macadmins.org/2019/07/25/episode-130-zooms-bad-day-with-jonathan-leitschuh/)
+
+#### News Coverage
+
+This kinda got out of hand. 😆
+
+ - [Time: A Flaw in Teleconferencing App Zoom Could Have Let Hackers Access Your Webcam. Here’s How to Fix it](https://time.com/5622782/zoom-security-flaw-hackers-webcam-fix/)
+ - [The Verge: Serious Zoom security flaw could let websites hijack Mac cameras](https://www.theverge.com/2019/7/8/20687014/zoom-security-flaw-video-conference-websites-hijack-mac-cameras)
+ - [USA Today: Zoom flaw could leave Mac cameras vulnerable, says researcher](https://www.usatoday.com/story/tech/2019/07/09/zoom-camera-flaw-could-leave-macs-vulnerable/1683413001/)
+ - [Forbes: Confirmed: Zoom Security Flaw Exposes Webcam Hijack Risk, Change Settings Now](https://www.forbes.com/sites/zakdoffman/2019/07/09/warning-as-millions-of-zoom-users-risk-webcam-hijack-change-your-settings-now/?sh=175a4ec642d9)
+ - [Google News: Ect...](https://www.google.com/search?q=%22jonathan+leitschuh%22+zoom)
+
 ## Other Stuff
  
  - The Developers' Bakery - [#35 - ktlint-gradle with Jonathan Leitschuh and Yahor Berdnikau](https://thebakery.dev/35/)
+ - Hacker History - [The history of Jonathan Leitschuh](https://hackerhistory.com/podcast/the-history-of-jonathan-leitschuh/)
