@@ -2,9 +2,9 @@
 
 Hi There!
 
-My name is Jonathan Leitschuh and I'm a Senior Software Security Researcher for the Open Source Security Foundation [Project Alpha Omega](https://openssf.org/community/alpha-omega/) focused on finding and reporting OSS vulnerabilities. I'm also a [GitHub Star](https://stars.github.com/profiles/jlleitschuh/), GitHub Security Ambassador, & the was the first ever [Dan Kaminsky Fellow](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh) @ [HUMAN Security](https://www.humansecurity.com/learn/blog/our-first-dan-kaminsky-fellow). I'm also a speaker at confrences like ShmooCon, BSidses CT, BSides LV, Black Hat, & DEFCON. I'm fortunate to have been featured by [GitHub's README project](https://github.com/readme/stories/jonathan-leitschuh)!
+My name is Jonathan Leitschuh and I'm a Senior Software Security Researcher for the Open Source Security Foundation [Project Alpha Omega](https://openssf.org/community/alpha-omega/) focused on finding and reporting OSS vulnerabilities. I'm also a [GitHub Star](https://stars.github.com/profiles/jlleitschuh/), GitHub Security Ambassador, & was the inagural [Dan Kaminsky Fellow](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh) @ [HUMAN Security](https://www.humansecurity.com/learn/blog/our-first-dan-kaminsky-fellow). I'm also a speaker at conferences like ShmooCon, BSidses CT, BSides LV, Black Hat, & DEFCON. I'm fortunate to have been featured by [GitHub's README project](https://github.com/readme/stories/jonathan-leitschuh)!
 
-If you'd like to get in touch, the best way is to DM Me on Twitter [@JLLeitschuh](https://twitter.com/jlleitschuh) or direct message me in the [Open Source Security Foundation](https://openssf.org/getinvolved/) Slack Channel.
+If you'd like to get in touch, the best way is to DM me on X [@JLLeitschuh](https://twitter.com/jlleitschuh) or direct message me in the [Open Source Security Foundation](https://openssf.org/getinvolved/) Slack Channel.
 
 ---
 <p align="center">
@@ -21,7 +21,7 @@ Then i recorded my screen with this browser app: https://gifcap.dev/
 
 ## Public Vulnerability Research
 
-Note: The recording with the ⭐ next to them are what I beleive to be the best version of any given talk or story.
+Note: The recording with the ⭐ next to them are what I believe to be the best version of any given talk or story.
 
 ### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
 
