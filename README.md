@@ -21,7 +21,7 @@ Then i recorded my screen with this browser app: https://gifcap.dev/
 
 ## Public Vulnerability Research
 
-Note: The recording with the ⭐ next to them are what I believe to be the best version of any given talk or story.
+Note: Any recording with a ⭐ next to it is what I believe to be the best version of any given talk or story.
 
 ### Scaling the Security Researcher to Eliminate OSS Vulnerabilities Once and For All
 
